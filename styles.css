@@ -1,0 +1,18 @@
+/* Estilos generales */
+body {
+
+    background-color: #fbe9d6;
+    color: #7b4d3a;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #7b4d3a;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+
